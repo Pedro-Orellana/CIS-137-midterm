@@ -50,7 +50,7 @@ struct ContentView: View {
                         
                 }
             }
-            .navigationTitle("My favorite languges")
+            .navigationTitle("Pedro's favorite languges")
             .navigationBarTitleDisplayMode(.automatic)
             
         }
